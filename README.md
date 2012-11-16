@@ -14,7 +14,10 @@ supported hardware
 ==================
 
 Company Model                               Type        Known PCI IDs
-LSI     SAS 9211-8i HBA                     SAS PCIe    1000:0072
+-------+-----------------------------------+-----------+-----------------------
+LSI    |SAS 9211-8i HBA                    |SAS PCIe   |1000:0072
+http://www.lsi.com/channel/products/storagecomponents/Pages/LSISAS9211-8i.aspx
+-------+-----------------------------------+-----------+-----------------------
 
 Applicable PCI device types:
 
